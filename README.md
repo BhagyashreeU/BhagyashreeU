@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhagyashree.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Master's in Computer science
+- 🌱 I’m currently studying Master's in Computer science
 
 
 <!---
